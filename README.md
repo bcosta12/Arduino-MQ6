@@ -3,7 +3,7 @@
     This Project connects an Arduino Uno who collects LPG gas (cooking gas). If the gas is the air, the alarm (Buzzer) ring. The sensor MQ6 are able to collect Methane (CH4) gas too, so I show this information on Arduino serial port.
  
 
-![alt text](arduinoproject.pngP
+![alt text](arduinoProject.png)
 
 # The main idea of this project is:
 
