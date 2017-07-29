@@ -8,8 +8,9 @@
 # The main idea of this project is:
 
     1 - Collect LPG and CH4 gas;
-
-    2 - Ring alarm (BUZZER) with there is any LPG gas concentration in the air.
+    
+    2 - Ring alarm (BUZZER) with there is any LPG gas concentration in the air.
+    
 
 # Acknolagenmet:
    Thanks, Professor Diego Haddad from CEFET/RJ to make this project possible and the followings websites that I learn how to do this project.
